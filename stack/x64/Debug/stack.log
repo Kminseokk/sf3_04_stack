@@ -1,0 +1,10 @@
+﻿  stack.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\variant(13): warning STL4038: The contents of <variant> are available only with C++17 or later.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(43,20): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(42,10): message : 클래스 템플릿 멤버 함수 'void Stack<int>::printFromBottom(void) const'을(를) 컴파일하는 중입니다.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(145,44): message : 'main'에서 'Stack<int>::printFromBottom'에 대한 첫 번째 참조를 확인하세요.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(73,16): message : 컴파일되는 클래스 템플릿 인스턴스화 'Stack<int>'에 대한 참조를 확인하세요.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(38,25): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(37,9): message : 클래스 템플릿 멤버 함수 'int Stack<int>::size(void) const'을(를) 컴파일하는 중입니다.
+C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\stack.cpp(90,62): message : 'main'에서 'Stack<int>::size'에 대한 첫 번째 참조를 확인하세요.
+  stack.vcxproj -> C:\Users\Lenovo\Desktop\github\sf3_04_stack\stack\x64\Debug\stack.exe
